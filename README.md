@@ -6,7 +6,7 @@ This repository provides the code for the work in NAACL2019: "Event Detection wi
 Because of the copyright issue of ACE2005 Corpus, we can not release the corpus. For test, we give 10 samples in data/test_corpus_10.txt.
 
 Each line represents a testing sample, whose format is as follows:
-```python
+```
 w1 e1 \t w2 e2 \t ... ... wn en \t evt1 evt2 ... evtm
 ```
 where, [w1, w2, ..., wn] are tokens of a testing sentence, [e1, e2, ..., en] are the corresponding entity type of  each token, [evt1, evt2, ..., evtm] are the types of events mentioned in this sentence (if m is 0, this block will be replaced with a single 'NEGATIVE' label). 
