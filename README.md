@@ -1,7 +1,7 @@
 Event Detection without Triggers (NAACL2019)
 ============================================
 
-This repository provides the code for the work in NAACL2019: "Event Detection without Triggers".
+This repository provides the code for the work in NAACL2019: [Event Detection without Triggers](https://www.aclweb.org/anthology/N19-1080).
 
 Because of the copyright issue of ACE2005 Corpus, we can not release the corpus. For test, we give 10 samples in data/test_corpus_10.txt.
 
