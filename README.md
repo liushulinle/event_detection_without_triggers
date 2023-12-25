@@ -24,4 +24,4 @@ python run_model.py train
 
 **Required running environment:**  
 *1. python 2.7*  
-*2. tensorflow 1.4*  
+*2. tensorflow 1.14*  
